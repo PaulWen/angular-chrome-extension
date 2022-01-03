@@ -1,4 +1,4 @@
-# AngularChromeExtension
+# Angular Chrome Extension
 
 This is a sample Chrome extension developed using Angular. It is based on the project by
 [just-jeb/angular-chrome-extension](https://github.com/just-jeb/angular-chrome-extension)
@@ -8,6 +8,7 @@ with the difference that it supports the Chrome Extension Manifest v3.
  - Google Chrome Extension Manifest v3
  - Angular 12 based Extension Popup
  - Background Script
+ - Content Script
 
 ## Original Source
 - [GitHub Repo by JeB](https://github.com/just-jeb/angular-chrome-extension)
